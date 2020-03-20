@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="36px" viewBox="0 0 42 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Camera</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-AMEX-Icons-/-Actions-/-Camera-/-Default" transform="translate(-3.000000, -6.000000)" fill="#006FCF" fill-rule="nonzero">
+            <path d="M14.9479,7.75 C15.43665,6.6836 16.5021,6 17.6751,6 L30.3251,6 C31.4981,6 32.5635,6.68368 33.0523,7.75 L35.0002,12 L42.0002,12 C43.6571,12 45.0002,13.3431 45.0002,15 L45.0002,39 C45.0002,40.6569 43.6571,42 42.0002,42 L6.0002,42 C4.3433,42 3.0002,40.6569 3.0002,39 L3.0002,15 C3.0002,13.3431 4.3433,12 6.0002,12 L13.0002,12 L14.9479,7.75 Z M15,15 L6,15 L6,39 L42,39 L42,15 L33,15 L30.3,9 L17.7,9 L15,15 Z M24,18 C28.9706,18 33,22.0294 33,27 C33,31.9706 28.9706,36 24,36 C19.0294,36 15,31.9706 15,27 C15,22.0294 19.0294,18 24,18 Z M24,21 C20.6863,21 18,23.6863 18,27 C18,30.3137 20.6863,33 24,33 C27.3137,33 30,30.3137 30,27 C30,23.6863 27.3137,21 24,21 Z" id="Camera"></path>
+        </g>
+    </g>
+</svg>
